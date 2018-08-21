@@ -1,2 +1,2 @@
-# nueral-network
-Small nueral network program created using Javascript
+# neural-network
+Small neural network program created using Javascript
